@@ -15,4 +15,4 @@ Configuration can be done via web.config and needs 5 settings:
 * Password: Password for this user
 * PasswordExpiresInDays: Provide in how many days the password expires in AD. Used to calculate if the user password is expired.
 
-[screenshot]: https://raw.githubusercontent.com/cbasolutions/PasswordChangerWEB/master/screenshot.png
+![Screenshot](https://raw.githubusercontent.com/cbasolutions/PasswordChangerWEB/master/screenshot.png)
